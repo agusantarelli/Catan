@@ -1,24 +1,3 @@
-# Turing Complete
-## Environment
-The project is built and tested to run in Linux system but could run in iOS and Windows.
-All the commands described next in the README are aimed to Linux system.
-
-## Clone and prepare project
-
-> $git clone -b dev https://gitlab.com/erellont/turing-complete.git
-
-> $cd turing-complete/
-
-> $python -m venv turing 
-
-> $source turing/bin/activate
-
-> $pip install -r requiements.txt
-
-> $cd catan/
-
-> $python manage.py runserver 
-
 ## Some examples :
 
 ### Register User:
