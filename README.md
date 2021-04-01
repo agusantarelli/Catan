@@ -1,5 +1,5 @@
 # Catan
-Project of the game Catan's Colons, fro the subject Software Engineer in 2019
+Project of the game the Settlers of Catan, for the subject Software Engineer in 2019
 
 It is a project carried out thanks to teamwork. The working group was appointed by professors from the university in which we studied
 
