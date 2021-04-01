@@ -1,11 +1,15 @@
 # Catan
 Project of the game Catan's Colons, fro the subject Software Engineer in 2019
 
-Steps for install and play:
+It is a project carried out thanks to teamwork. The working group was appointed by professors from the university in which we studied
 
-1. git clone https://github.com/agusantarelli/Catan.git
+Some of us take care of the backend and the rest of the frontend. And at the end of each part, we put them together
 
-2. Lets install all of the backend's requirements and then we run server:
+## Steps for install and play:
+
+$ git clone https://github.com/agusantarelli/Catan.git
+
+### Install all the requirements and run the backend
 - $ cd Catan/
 - $ cd backend/
 - $ python -m venv catangame
@@ -13,11 +17,12 @@ Steps for install and play:
 - $ pip install -r requiements.txt
 - $ cd catan/
 - $ python manage.py runserver
-3. Now open another terminal and follow this steps for the frontend:
+
+### Run the frontend 
 - $ cd Catan/
 - $ cd frontend/
 - $ npm install
 - $ echo 'REACT_APP_API="http://localhost:8000/"' > .env
 - $ npm run mockapi & npm start
-4. Then a window will open in the browser with the game
-5. Enjoy it!
+
+Then a window will open in the browser with the game.Enjoy it!
